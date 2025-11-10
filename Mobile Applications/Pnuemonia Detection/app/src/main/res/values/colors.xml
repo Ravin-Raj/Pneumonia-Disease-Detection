@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pneumonia Detection App Colors -->
+    <color name="backgroundColor">#D5D7DA</color> <!-- Light grayish background -->
+    <color name="primaryColor">#1B3B5F</color> <!-- Deep navy blue (text) -->
+    <color name="secondaryColor">#0079A1</color> <!-- Vibrant blue (accent) -->
+
+    <color name="lungGray">#BFC3C6</color> <!-- Lung gray -->
+    <color name="vesselWhite">#FFFFFF</color> <!-- White for vessels -->
+    <color name="infectionRed">#D62323</color> <!-- Red highlight for infection -->
+    <color name="highlightBlue">#49B3E5</color> <!-- Light cyan highlight -->
+
+    <color name="semiTransparentBlack">#66000000</color>
+</resources>
